@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+.Counter {
+  margin: 20px;
+  padding: 10px;
+}
+
+.counter-span {
+  margin: 8px;
+}
+
+a {
+  margin: 8px;
+}
